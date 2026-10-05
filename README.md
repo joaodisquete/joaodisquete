@@ -10,10 +10,19 @@ Me interesso por programação e desenvolvimento de compilações de jogos.
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-## redes sociais/contatos
+## redes sociais
 
-[soundcloud](https://soundcloud.com/diskete-arranhado)
+<div>
+<a href="https://soundcloud.com/diskete-arranhado" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/soundcloud-%23FF5500.svg?style=for-the-badge&logo=soundcloud&logoColor=white"></a>
+<a href=https://www.youtube.com/channel/UCU7_g7TiyUbs8LqFt8SzoMw" target="_blank"><img loading="lazy" src="https://img.sh ields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/joaoboscomeireles" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:joaoboscocontatos@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
-[Youtube](https://www.youtube.com/channel/UCU7_g7TiyUbs8LqFt8SzoMw)
+## 
 
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaoboscocontatos@gmail.com)
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodisquete&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="100em" src="https://github-readme-stats.vercel.app/api?username=joaodisquete&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
