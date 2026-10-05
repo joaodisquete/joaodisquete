@@ -10,7 +10,7 @@ Me interesso por programação e desenvolvimento de compilações de jogos.
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-## redes sociais
+## redes sociais/contatos
 
 [soundcloud](https://soundcloud.com/diskete-arranhado)
 
